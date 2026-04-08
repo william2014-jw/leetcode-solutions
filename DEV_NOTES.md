@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved TODO items from previous session
 - Wrote notes on upcoming feature design
 - Tested build on clean environment
+
+## 2026-04-08
+- Pinned dependency versions for reproducibility
